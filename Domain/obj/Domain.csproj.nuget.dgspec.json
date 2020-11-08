@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning\\Reactivities\\Domain\\Domain.csproj": {}
+    "E:\\React projects\\ReactDotNetCore\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Learning\\Reactivities\\Domain\\Domain.csproj": {
+    "E:\\React projects\\ReactDotNetCore\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\React projects\\ReactDotNetCore\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Learning\\Reactivities\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\kotharibb\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning\\Reactivities\\Domain\\obj\\",
+        "projectPath": "E:\\React projects\\ReactDotNetCore\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\new\\.nuget\\packages\\",
+        "outputPath": "E:\\React projects\\ReactDotNetCore\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kotharibb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\new\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/wtwrcds/_packaging/KYC/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400-preview-015203\\RuntimeIdentifierGraph.json"
         }
       }
     }

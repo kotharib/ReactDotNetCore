@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RMYeXRh01mVYyX0qHhCvl2RB8ouVWV7KwrWFQPA7uY3qOYf0+CiQGYCeeKm/axppeDZdQSNAmoVtSLxZUV6Pmw==",
+  "dgSpecHash": "cfP0I23cv+jnTFAMesvkDY1GKiGH6hCtO+u+S4xJUJdcR+XQ0Aa7nMLKhseF3qFgGKHC+NJZFRS56KCSwz/VIQ==",
   "success": true,
-  "projectFilePath": "C:\\Learning\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\React projects\\ReactDotNetCore\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
